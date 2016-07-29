@@ -1,8 +1,8 @@
-When I first walked into Bethnal Green Weightlifting Club in 2009 I had no idea what powerlifting really was, or that it would become such a big part of my life. Back then I was one of maybe 2 or 3 powerlifters there, plus maybe 2 or 3 weightlifters. In the 7 years since, powerlifting has exploded in popularity among women. In 2011 I was one of three women who took part in the British Powerlifting's (then known as the GBPF) All-England Championships; in 2016 the women's event is being held separately to the men's as there just isn't enough room & time to host both over the same weekend.
+When I first walked into Bethnal Green Weightlifting Club in 2009 I had no idea what powerlifting really was, or that it would become such a big part of my life. Back then I was one of maybe 2 or 3 female powerlifters there, plus maybe 2 or 3 female weightlifters. In the 7 years since, powerlifting has exploded in popularity among women. In 2011 I was one of three women who took part in the British Powerlifting's (then known as the GBPF) All-England Championships; in 2016 the women's event is being held separately to the men's as there just isn't enough room & time to host both over the same weekend.
 
 I've seen a lot of parallels in the explosion of popularity of powerlifting among women, with what I do for my day job. Since 1999 I've worked in the tech industry as a developer. While there have always been female developers (in fact the first programmers were almost exclusively women) the software industry became progressively more male-dominated in the 80s and 90s. Similarly, powerlifting since its inception in the 1970s has been very male-dominated. From the 00s onwards female developers have become more commonplace, and there have been concrete attempts to foster more female-friendly communities in tech and software development. So when I noticed a surge in popularity in powerlifting amongst women at the powerlifting gym I train at, and at GBPF competitions, it felt like similar forces were at work.
 
-I have a lot anecdotal experience of how the tech & software industry has attempted to attract more women. As a veteran female developer I've been asked more than once by my employers how they can get more women to apply for jobs (and, admittedly, I do resent the fact that this seems to be a task given to women, when correcting the gender imbalance in the workplace is <i>everyone's</i> responsibility). But what about powerlifting? After seven years of lifting and six years of competing, I suppose I am something of a veteran (at least compared to some). Obviously many women are attracted to powerlifting already, but how can you encourage more women to take up the sport and, more importantly, keep coming back?
+I have a lot anecdotal experience of how the tech & software industry has attempted to attract more women. As a veteran female developer I've been asked more than once by my employers how they can get more women to apply for jobs (and, admittedly, I do resent the fact that this seems to be a task given to women, when correcting the gender imbalance in the workplace is <i>everyone's</i> responsibility). But what about powerlifting? After seven years of lifting and six years of competing, I suppose I am something of a veteran (at least compared to some). Obviously many women are attracted to powerlifting already, but how can you encourage more women to take up the sport and - more importantly - keep coming back?
 
 https://www.instagram.com/p/-Y8yAHmGmz/
 
@@ -14,11 +14,11 @@ But whether you're a gym business owner, a volunteer for a sports charity or gro
 
 When I asked the women at BGWLC what makes the gym a great place for women, they all mentioned the attitude of the male members of the gym. Encouraging diversity is everyone's job, not just that of the minorities you're targeting.
 
-There are lots of things everyone can do to make the gym a more welcoming and inclusive environment. An easy one is to tone down sexualised comments and actions. Leering at women in the gym is not acceptable - people are here to learn and train, not hook up. You don't need to call your buddy a "pussy" for not making that lift (no, "pussy" is not short for "pusillanimous" - http://anthrocentric.tumblr.com/post/81621685922/pussy-is-not-short-for-pusillanimous). If you can't deal with not calling other people a pussy at the gym, then maybe this gym isn't for you.
+There are lots of things everyone can do to make the gym a more welcoming and inclusive environment. An easy one is to tone down sexualised comments and actions. Leering at women in the gym is not acceptable - people are here to learn and train, not hook up. You don't need to call your buddy a "pussy" for not making that lift (<a href="http://anthrocentric.tumblr.com/post/81621685922/pussy-is-not-short-for-pusillanimous">no, "pussy" is not short for "pusillanimous"</a>). If you can't deal with not calling other people a pussy at the gym, then maybe this gym isn't for you.
 
 If you think someone needs tips or advice on how to lift, <i>ask</i> before advising. A simple "Hey, can I give you a tip?" takes a second; and if the person don't want advice, <i>take it graciously</i>. Be open to giving spots, especially if it's for a weight you might think is "too light" to need spotting - that 30kg squat might be a huge amount for them!
 
-Quote: "It's not only about women supporting women. The boys are really supportive too. They spot me with my poverty bench!" - RS, BGWLC member
+<blockquote>"It's not only about women supporting women. The boys are really supportive too. They spot me with my poverty bench!" - RS, BGWLC member</blockquote>
 
 Making a space more diverse is all about reasonable adjustments, and these are things everyone can do. If a member can't bring themselves to make adjustments like this, then maybe your gym is not for them. And if you're running the gym but don't want to make these changes, then that's OK - but running a gym for you and people like you isn't a long-term business plan. A successful business has a wide reach and a diverse set of clients.
 
@@ -28,17 +28,17 @@ It's 2016 so most people are going to find out about your gym via your website a
 
 It might seems like a small thing, but the colours you use for website can be really important. How many gym websites have you seen that are black/red/silver and feature images of snarling wolves or bulldogs? Some people might think they look cool, but to others aggressive images can be offputting. When I was building the BGWLC website I was keen to use a more "neutral" colour (I used the signature BGWLC green) and feature equal numbers of male & female lifters in the main banner image.
 
-Quote: "There was a picture of Anna [Macnab, GBPF British powerlifting team member] on the website, so I knew there would be some women there!" - KT, BGWLC member
+<blockquote>"There was a picture of Anna [Macnab, GBPF British powerlifting team member] on the website, so I knew there would be some women there!" - KT, BGWLC member</blockquote>
 
-On our Instagram account we try to feature women and men equally, and we make an effort to feature plenty of beginners and lifters of all shapes and sizes, not just the strongest and most swole. You might think only featuring the best and strongest lifters makes your gym look like it's the best around, but it can make also less confident & newer lifters think your gym is not a place for them. At the end of the day, your gym needs new members to survive and grow, so you don't want to discourage anyone.
+On our Instagram account we try to feature women and men equally, and we make an effort to feature plenty of beginners and lifters of all shapes and sizes, not just the strongest and most swole. You might think only featuring the strongest and leanest lifters makes your gym look like it's the best around, but it can make also less confident & newer lifters think your gym is not a place for them. At the end of the day, your gym needs new members to survive and grow, so you don't want to discourage anyone.
 
 https://www.instagram.com/p/BINUAZEjIVn/
 
-Stay away from gym memes in your professional presence. Memes are hugely popular but they can also be hugely problematic. If you must use them, consider them carefully. Never use memes which feature women with their heads cut out of the picture - instead show women as whole people, not objectified bodies. You can read more on this at http://mashable.com/2016/04/23/headless-women-of-hollywood/
+Stay away from gym memes in your professional presence. Memes are hugely popular but they can also be hugely problematic. If you must use them, consider them carefully. Never use memes which feature women with their heads cut out of the picture - instead show women as whole people, not objectified bodies. <a href="http://mashable.com/2016/04/23/headless-women-of-hollywood/">You can read more on this here</a>.
 
 Finally, be reactive on social media. People who are curious about trying your gym might feel too shy to pop in & talk to you about it, or even to talk on the phone. Answer emails or messages on social media promptly, and in a friendly manner. This goes extra if you're responding publicly comments on social media - don't mock or belittle people, and if someone posts a negative comment on one of your pictures or statuses, react in a dignified manner.
 
-Quote: "I loved the [Facebook] video that was used to promote the event. I also loved the amount of <i>noticeably</i> male non-lifters commenting with "is her form right?", and the calm dignified responses from the club!" - RT, BGWLC member
+<blockquote>"I loved the [Facebook] video that was used to promote the event. I also loved the amount of <i>noticeably</i> male non-lifters commenting with "is her form right?", and the calm dignified responses from the club!" - RT, BGWLC member</blockquote>
 
 <h3>Have decent facilities for women</h3>
 
@@ -75,3 +75,7 @@ The ideas above are for fostering a more women-friendly space, but ultimately ha
 https://www.instagram.com/p/BFb0ODtGGkb/
 
 <i>A big thank you has to go to all the members of Bethnal Green Weightlifting Club for helping me write this article (and making the gym a great place).</i>
+
+Find out more about Bethnal Green Weightlifting Club at our <a href="http://www.bgwlc.co.uk">website</a>, <a href="http://www.instagram.com/bethnalgreenwlc">Instagram</a> and <a href="https://www.facebook.com/bethnalgreenwlc/">Facebook page</a>.
+
+About the author: Laura Porter has been powerlifting since 2009 under the auspices of coach Martin Bass. She has competed in the past 3 GBPF Women's Classics and is a GBPF divisional referee. She has also been working in the software industry since 1999, and is a passionate believer in increasing diversity in both tech and lifting. She blogs at <a href="http://www.lauralifts.com">Laura Lifts</a>.
